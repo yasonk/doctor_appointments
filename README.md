@@ -1,8 +1,11 @@
 Simple Exercise
 
 Main routes:
+
 /appointments
+
 /doctors
+
 /patients
 
 The following are required:
